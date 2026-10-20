@@ -1,0 +1,35 @@
+{
+  "year": 2026,
+  "totalPeriods": 3,
+  "totalWeeks": 40,
+  "startDate": "2026-01-26",
+  "endDate": "2026-12-11",
+  "currentAcademicWeek": 34,
+  "currentPeriod": "3°",
+  "periods": [
+    {
+      "id": "period1",
+      "name": "1°",
+      "label": "1° Periodo",
+      "weeks": 13,
+      "startDate": "2026-01-26",
+      "endDate": "2026-05-01"
+    },
+    {
+      "id": "period2",
+      "name": "2°",
+      "label": "2° Periodo",
+      "weeks": 13,
+      "startDate": "2026-05-04",
+      "endDate": "2026-08-28"
+    },
+    {
+      "id": "period3",
+      "name": "3°",
+      "label": "3° Periodo",
+      "weeks": 14,
+      "startDate": "2026-08-31",
+      "endDate": "2026-12-11"
+    }
+  ]
+}
